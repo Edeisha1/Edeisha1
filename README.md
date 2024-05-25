@@ -16,7 +16,7 @@ I'm Edeisha from the Bahamas, and I do Architectual drafting, Data anaylitics, S
 - 👯 I’m looking to collaborate on Analytic and/or Coding Project.
 
  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- Find Me Worldwide
+🌎 Find Me Worldwide
 - 📫 Lets Connect, be sure to shot me a message on [linkedIn](https://www.kaggle.com/edeisharolle/code).
 - 🔭 Check out what analytics I'm working on in my [Kaggle](https://www.kaggle.com/edeisharolle/code) Profile
 

@@ -11,7 +11,7 @@ I'm Edeisha from the Bahamas, and I do Architectual drafting, Data anaylitics, S
 [![My Skills](https://skillicons.dev/icons?i=js,html,php,jquery,java,css,c,cs,sass,cpp,codepen,d3,firebase,mysql,r,py,wordpress,visualstudio,vscode,supabase)](https://skillicons.dev)
 
 
-- 🔭 I’m currently working on a calculator app and a bill estimate.
+- 📱 I’m currently working on a calculator app and a bill estimate.
 - 🌱 I’m currently learning Linux and Marketing.
 - 👯 I’m looking to collaborate on Analytic and/or Coding Project.
 

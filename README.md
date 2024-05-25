@@ -1,4 +1,5 @@
-## Hi there, Welcome 👋
+![github-header-image](https://github.com/Edeisha1/Edeisha1/assets/87384327/0cf0970a-1fca-4cc0-98a9-8d2735e51e46)
+## Hi there 👋
 I'm Edeisha from the Bahamas, and I do Architectual drafting, Data anaylitics, Sofetware develoment and App development. I enjoy learning new languages and information towards helping businesses grow and improve. I have experience in Autocad, 3d Modeling and Rendering. Take a look through my projects and [portfolio](https://edeisha1.github.io/) to get a better look at some things I've been working on.
 
 ![](https://komarev.com/ghpvc/?username=Edeisha1&style=plastic&abbreviated=true&label=Profile+Views)

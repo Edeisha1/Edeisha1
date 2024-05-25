@@ -8,7 +8,7 @@ I'm Edeisha from the Bahamas, and I do Architectual drafting, Data anaylitics, S
 **Edeisha1/Edeisha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,codepen,d3,firebase,mysql,r,py,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,php,jquery,java,css,c,cs,sass,cpp,codepen,d3,firebase,mysql,r,py,wordpress,visualstudio,vscode,supabase)](https://skillicons.dev)
 
 
 - 🔭 I’m currently working on a calculator app and a bill estimate.
